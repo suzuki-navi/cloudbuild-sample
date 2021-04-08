@@ -9,3 +9,4 @@ steps:
     args: ["touch", "building.txt"]
   - name: "bash"
     args: ["ls", "-al"]
+
